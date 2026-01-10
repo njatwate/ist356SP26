@@ -170,16 +170,17 @@ This can be easily summarized as: **If code you are submitting did not originate
 
 When in doubt, ask. When unsure, disclose openly. Most students who get into trouble are trying to hide their academic dishonesty. Don’t do that. We will catch you easily.
 
-Sanctions for Violations of Academic Integrity
+### Sanctions for Violations of Academic Integrity
 Oops. I violated academic integrity. What now?
 
-All suspected academic integrity violation will be reported to the university’s office of academic integrity.
-Proposed sanction for violations of a low-stakes assessment such as a homework assignment or lab, is a grade of zero.
-Proposed sanction for any violation on a summative assessment such as an exam or the final project is a grade of F in the course.
-Syracuse University Policies
+- All suspected academic integrity violation will be reported to the university’s office of academic integrity.
+- Proposed sanction for violations of a low-stakes assessment such as a homework assignment or lab, is **a grade of zero**.
+- Proposed sanction for any violation on a summative assessment such as an exam or the final project is **a grade of F in the course**.
+
+### Syracuse University Policies
 Syracuse University has a variety of other policies designed to guarantee that students live and study in a community respectful of their needs and those of fellow students. These policies apply to this course and can be found at this URL:
 
-https://academicaffairs.syracuse.edu/important-syllabus-reminders/
+<https://academicaffairs.syracuse.edu/important-syllabus-reminders/>
 
 
 
