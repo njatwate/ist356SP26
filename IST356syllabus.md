@@ -166,7 +166,7 @@ The course honor code represents our commitment to Academic Integrity in a progr
 5. I accept the honor code and its consequences. I understand and accept that that all work I submit is subject to the honor code, and if I violate this honor code I my instructor is obligated to report me to the University’s office of 
 Academic Integrity.
 
-This can be easily summarized as: ** If code you are submitting did not originate from you, you must clearly disclose where it came from ** .
+This can be easily summarized as: **If code you are submitting did not originate from you, you must clearly disclose where it came from** .
 
 When in doubt, ask. When unsure, disclose openly. Most students who get into trouble are trying to hide their academic dishonesty. Don’t do that. We will catch you easily.
 
