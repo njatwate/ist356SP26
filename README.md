@@ -1,4 +1,4 @@
-# ist356SP26
+# IST356SP26
 ## Course Repository for IST356
 
 
