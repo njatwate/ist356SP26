@@ -13,3 +13,8 @@ write code to simulate this
 
 
 # Check if the pressure is greater than 10.
+sensor_value = float(input("Enter the pressure sensor value: "))
+if sensor_value > 10:
+    print(f"Pressure is {sensor_value:.2f}. Door is Open")
+else:
+    print(f"Pressure is {sensor_value:.2f}. Door is Closed")
