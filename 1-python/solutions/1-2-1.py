@@ -7,4 +7,3 @@ Write a program to accept a password as input. If the password input is "secret"
 repeat the above up to 5 times. when the correct password is entered, stop looping when 5 loops have exhaused print "you are locked out"
 
 '''
-

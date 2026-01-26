@@ -14,8 +14,29 @@ Re-write to account for "bad" grades > 120 or < 0
 
 # Get the number grade from the user
 
+   
+        
+#Re-write to account for "bad" grades > 120 or < 0
 
-# Calculate the letter grade based on the number grade
 
 
+try:
+    # Get the number grade from the user
+    grade = float(input("Enter the student's number grade: "))
 
+    # Validate grade range
+    if grade < 0 or grade > 120:
+        print("Invalid grade. Please enter a grade between 0 and 120.")
+    else:
+        # Calculate the letter grade
+        if grade >= 95:
+            print("Your letter grade is A")
+        elif grade >= 75:
+            print("Your letter grade is B")
+        elif grade >= 50:
+            print("Your letter grade is C")
+        else:
+            print("Your letter grade is F")
+
+except ValueError:
+    print("Invalid input. Please enter a number.")
