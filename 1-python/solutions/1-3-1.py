@@ -21,6 +21,7 @@ def average(list_nums:list)->int:
     count = len(list_nums)
     return total//count
 
+#Main program
 nums = [10, 20, 10, 5]
 avg = average(nums)
 print(f"Average of {nums} is {avg}")
