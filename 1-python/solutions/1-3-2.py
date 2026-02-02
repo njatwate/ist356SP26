@@ -16,10 +16,14 @@ def cleanup(dirtystr:str)->str:
     '''
     # remove punctuation
     for ch in '?.,!':
-        
-        
+        if ch in dirtystr:
+            dirtystr = dirtystr.replace(ch, '')
+
+    return dirtystr.strip().lower()
 
 
 
 #main program 
-
+dirtystr ="Hello, World!  "
+cleanedstr = cleanup(dirtystr)
+print(cleanedstr)
