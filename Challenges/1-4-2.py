@@ -1,7 +1,6 @@
 from datetime import datetime
 
 def parsedate_mdy(text: str) -> datetime:
-    return datetime.strptime(text, "%m/%d/%Y")
     """
     Takes a datetime object and returns a formatted string in "YYYY-MM-DD" format.
     """
